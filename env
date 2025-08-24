@@ -1,0 +1,8 @@
+# Roboflow Configuration
+ROBOFLOW_API_KEY=Yw0ObHxCkg4r0yfEolSq
+ROBOFLOW_MODEL_URL=https://serverless.roboflow.com/my-first-project-qdwrb/3
+
+#Gemini Configuration
+GOOGLE_API_KEY=AIzaSyDCGBg3knEaejIHu4Rek5NYAgn0JTSnT8s
+
+

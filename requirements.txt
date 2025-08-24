@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+python-multipart
+requests
+pillow
+shapely
+pyproj
+geojson
+python-dotenv
+google-generativeai 

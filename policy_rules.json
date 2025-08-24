@@ -1,0 +1,23 @@
+{
+  "size_limits_ft": {
+    "default": { "w": 40, "h": 20 },
+    "urban_core": { "w": 20, "h": 10 }
+  },
+  "min_distances_m": {
+    "from_school": 100,
+    "from_hospital": 50,
+    "from_junction": 30,
+    "from_road_edge": 5
+  },
+  "banned_content": ["tobacco", "alcohol", "obscene", "unsubstantiated_medicinal_claims"],
+  "lighting_rules": { "backlit_allowed": true, "flashing_allowed": false },
+  "permit_required": true,
+  "zoning": {
+    "Heritage Buffer": "banned",
+    "Highway Corridor": "allowed"
+  },
+  "notes": [
+    "Animated/flashing displays not allowed within 100m of intersections.",
+    "Max height 40ft x 20ft unless explicitly permitted by the authority."
+  ]
+}
